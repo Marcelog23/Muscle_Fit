@@ -1,0 +1,23 @@
+input {
+
+    text-transform: uppercase;
+
+}
+textarea{
+    text-transform: uppercase;
+}
+
+.email{
+    text-transform: lowercase;
+}
+
+.linha {
+    border: solid 0.7px;
+    width: 98%;
+    margin-top: 5px;
+}
+.box{
+
+    box-shadow: 3px 3px 7px 2px #99999973;
+}
+
